@@ -9,5 +9,5 @@ Skills: Python/SQL/Excel/Power BI
 - 🌱 I’m currently learning Python Libraries. 
 - 📫 How to reach me: mahdismaleki980@gmail.com 
 - ⚡ Fun fact: Listening to anything while working helps me concentrate more.
-- [<img src='https://imgur.com/a/h6FdjfB'>](https://github.com/mahdismv) 
+  
 
