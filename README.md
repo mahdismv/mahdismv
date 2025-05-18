@@ -1,13 +1,19 @@
-### Hi there 👋, I'm Mahdis.
-#### Data Analysis
+### Hi there , I'm Mahdis.
+#### Django development enthusiast
 
-Passionate about analytical processes and solving real world business problems.
+An aspiring Django developer with a solid foundation in Python, Excel, and SQL.
+Currently diving deep into Django and building real-world projects step-by-step, sharing my progress here.
 
-Skills: Python/SQL/Excel/Power BI
+Skills:
+HTML & CSS
+Intermediate Python (OOP, libraries, scripting)
+Learning Django framework for web development
 
-- 🔭 I’m currently working on improving my technical skills. 
-- 🌱 I’m currently learning Python Libraries. 
-- 📫 How to reach me: mahdismaleki980@gmail.com 
-- ⚡ Fun fact: Listening to anything while working helps me concentrate more.
-  
+📫 How to reach me:
+
+Email:
+mahdismaleki980@gmail.com
+
+LinkedIn:
+[https://www.linkedin.com/in/mahdis-maleki-106401366]
 
